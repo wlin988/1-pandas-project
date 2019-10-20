@@ -1,0 +1,20 @@
+=> Use the CSV file quiz1_weather.csv
+=> Create Python script quiz1-answers.py
+
+A) Use pandas to perform the following:
+#1) read the CSV file into a Pandas dataframe df
+#2) display the summary information about the data
+#3) display the first 5 rows
+#4) display the last 5 rows
+#5) display the max temperature
+#6) display the min temperature
+#7) display the average temperature and windspeed
+#8) sort in decreasing order by the state 
+#9) fill missing values with the number 1234
+#10) drop rows #2, #3, and #4
+
+B) place the output in answers1.txt
+
+C) send me a zip file with quiz1-answers.py and answers1.txt
+=> filename: ml-quiz1-your-name.zip
+
